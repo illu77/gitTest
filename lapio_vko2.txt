@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rämä on lapion toinen osa kosa posa
+=======
+tzämä on lapion toinen osa kosa posa
+>>>>>>> 744025e3aea02fee68ea9684bcb8ec1e77b1b06a
