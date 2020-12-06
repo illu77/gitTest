@@ -3,4 +3,5 @@ makaronia
 kaljaa
 omenoita
 juustoa
-
+perunoita
+naksuja
